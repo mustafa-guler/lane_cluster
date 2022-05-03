@@ -1,5 +1,5 @@
 ![Build](https://img.shields.io/github/workflow/status/mustafa-guler/lane_cluster/github%20pages)
-[![Site](https://img.shields.io/github/workflow/status/mustafa-guler/lane_cluster/pages-build-deployment)](https://mustafa-guler.github.io/lane_cluster)
+[![Site](https://img.shields.io/github/workflow/status/mustafa-guler/lane_cluster/pages%20build%20and%20deployment?label=site)](https://mustafa-guler.github.io/lane_cluster)
 
 # Lane Cluster Documentation
 This repository hosts the source code for the lane cluster documentation.
