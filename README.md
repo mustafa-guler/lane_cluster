@@ -1,3 +1,5 @@
+![Build](https://img.shields.io/github/workflow/status/mustafa-guler/lane_cluster/github%20pages)
+
 # Lane Cluster Documentation
 This repository hosts the source code for the lane cluster documentation.
 The actual documentation is hosted at <https://mguler.github.io/lane_cluster>.
