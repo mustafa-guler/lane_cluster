@@ -1,0 +1,4 @@
+baseURL = 'https://mguler.github.io/lane_cluster'
+languageCode = 'en-us'
+title = 'Lane Cluster Documentation'
+theme = "geekdoc"
