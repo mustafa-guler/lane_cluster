@@ -4,7 +4,7 @@ weight: 20
 ---
 After you have [created an environment](/dependency-management/conda/creating-envs) you need to activate it before you can access its contents.
 If you are running an interactive job you can do this via `conda activate ENV_NAME`. 
-However, this does not always work as expected when it is part of a job submitting with `sbatch` (See [Submitting Jobs](/slurm-basics/submitting-jobs) for more information on job submission).
+However, this does not always work as expected when it is part of a job submitting with `sbatch` (See [Submitting Jobs](/lane-cluster/slurm-basics/submitting-jobs) for more information on job submission).
 You can work around this by activating a `conda` environment with the command
 ```bash
 source activate ENV_NAME
