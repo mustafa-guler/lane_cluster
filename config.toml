@@ -1,4 +1,4 @@
-baseURL = 'https://mguler.github.io/lane_cluster'
+baseURL = 'https://mustafa-guler.github.io/lane_cluster'
 languageCode = 'en-us'
 title = 'Lane Cluster Documentation'
 theme = "geekdoc"
